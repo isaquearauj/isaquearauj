@@ -1,6 +1,14 @@
+```
+print("Welcome to my github!😆")
+```
+
+---
+
 👨‍💻 Backend Python Developer
 
 🎓 Undergraduate in Information Systems from the Federal University of Uberlândia
+
+---
 
 ### 🌍 Connect with me!
 
@@ -8,6 +16,6 @@
 
 🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/isaquearauj)
 
-### 🖥️ Tech Stack
+---
 
 [![My Skills](https://skillicons.dev/icons?i=python,postman,mysql,postgres,git)](https://skillicons.dev)
