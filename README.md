@@ -18,4 +18,4 @@ print("Welcome to my github!😆")
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=python,postman,mysql,postgres,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,django,postman,mysql,postgres,git)](https://skillicons.dev)
